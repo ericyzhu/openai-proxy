@@ -3,7 +3,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://api.openai.com",
+      "dest": "https://openrouter.ai",
       "headers": {
         "Access-Control-Allow-Origin": "*"
       }
